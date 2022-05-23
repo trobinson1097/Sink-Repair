@@ -1,0 +1,30 @@
+
+.button {
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-color: #5F9EA0;
+    color: lightgoldenrodyellow;
+    font-size: 1rem;
+}
+
+.field { 
+    display: flex; 
+    flex-direction: column;
+    font-size: larger;
+}
+.serviceRequests {
+    margin: 1rem 0 1rem 1rem;
+    padding: 0.8rem ;
+    border-style: ridge;
+    border-block-color: #5F9EA0;
+}
+.request__delete {
+    margin: 1rem 0 1rem 1rem;
+    padding: 0.05rem;
+    background-color: #5F9EA0;
+    color: lightgoldenrodyellow;
+    font-size: .75 rem;
+}
+#container {
+    
+}
